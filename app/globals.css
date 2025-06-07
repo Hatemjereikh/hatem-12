@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  direction: rtl;
+  font-family: var(--font-cairo), sans-serif;
+}
+
+body {
+  text-align: right;
+}
